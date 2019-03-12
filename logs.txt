@@ -1,0 +1,7 @@
+RMartins@RMartins-PC MINGW64 ~/Documents/DB1Start/exercicio1 (master)
+$ git log
+commit a1de7df2f80fd637dce01499e2e21149a9611d48 (HEAD -> master)
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 15:58:28 2019 -0300
+
+    Adicionando status
