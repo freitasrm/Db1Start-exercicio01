@@ -5,3 +5,55 @@ Author: RMartins <freitas.rodrigom@gmail.com>
 Date:   Tue Mar 12 15:58:28 2019 -0300
 
     Adicionando status
+
+RMartins@RMartins-PC MINGW64 ~/Documents/DB1Start/exercicio1 (master)
+$ git log
+commit 580ecd66f1dcf5de603de1ad8b1d14204c322e78 (HEAD -> master, origin/master)
+Author: freitasrm <48421138+freitasrm@users.noreply.github.com>
+Date:   Tue Mar 12 17:01:45 2019 -0300
+
+    Criação Readme
+
+    Explicação/Orientação para clonagem de repositório
+
+commit a717c61071d2a8019bdff6971a085353c3d3c7b1
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 16:04:54 2019 -0300
+
+    Criando logs
+
+commit f0bf944e8363f75320b896ef4e63cdbe6844c214
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 16:00:55 2019 -0300
+
+    Adicionando alteração em status e inclusão de logs
+
+commit a1de7df2f80fd637dce01499e2e21149a9611d48
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 15:58:28 2019 -0300
+:...skipping...
+commit 580ecd66f1dcf5de603de1ad8b1d14204c322e78 (HEAD -> master, origin/master)
+Author: freitasrm <48421138+freitasrm@users.noreply.github.com>
+Date:   Tue Mar 12 17:01:45 2019 -0300
+
+    Criação Readme
+
+    Explicação/Orientação para clonagem de repositório
+
+commit a717c61071d2a8019bdff6971a085353c3d3c7b1
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 16:04:54 2019 -0300
+
+    Criando logs
+
+commit f0bf944e8363f75320b896ef4e63cdbe6844c214
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 16:00:55 2019 -0300
+
+    Adicionando alteração em status e inclusão de logs
+
+commit a1de7df2f80fd637dce01499e2e21149a9611d48
+Author: RMartins <freitas.rodrigom@gmail.com>
+Date:   Tue Mar 12 15:58:28 2019 -0300
+
+    Adicionando status
