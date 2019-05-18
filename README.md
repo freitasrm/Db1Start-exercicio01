@@ -27,8 +27,8 @@ Obs: caso não tenha instalado o Git Bash, utilize este *[link](https://git-scm.
 **4.** Após identificado, digite o comando **git init** para "setar" como o diretório principal para versionamento git no console do Git Bash;
 > Ex: git init
 
-**5.** Por último clone este novo diretório com o seguinte comando: **git clone https://github.com/freitasrm/exercicio1.git**
-> Ex: git clone https://github.com/freitasrm/exercicio1.git
+**5.** Por último clone este novo diretório com o seguinte comando: **git clone https://github.com/freitasrm/Db1Start-exercicio1.git**
+> Ex: git clone https://github.com/freitasrm/Db1Start-exercicio1.git
 
 Após clonado os arquivos disponíveis em meu diretório até o momento estarão na sua máquina, tudo certo?!
 
